@@ -1,5 +1,5 @@
-I accidentally let Pusheen get into this file and now it's broken! Can you help me take Pusheen out so I can recover it?
+I have a friend who's interested in matcha, but I can't recall her name. I saved her name inside this image, but I forgot how to retrieve it. Can you help me?
 
-Difficulty: Easy
+Difficulty: Very Easy
 
-Hint: Use Hex
+Hint: Read about Metadata :3
