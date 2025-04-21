@@ -1,0 +1,5 @@
+Hey! We've managed to intercept Agent Itik's secret message! Our intel says that Agent Itik tends to use same XOR key to encrypt his message. Can you help us decrypt this secret message?
+
+Difficulty: Easy
+
+Hint: What happen if we use same XOR key for all our encrypted text?
