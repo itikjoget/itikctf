@@ -2,4 +2,6 @@ I have a friend who's interested in matcha, but I can't recall her name. I saved
 
 Difficulty: Very Easy
 
+Flag format: itikctf{flag}
+
 Hint: Read about Metadata :3
