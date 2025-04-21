@@ -2,4 +2,6 @@ I accidentally let Pusheen get into this file and now it's broken! Can you help 
 
 Difficulty: Easy
 
+Flag format: itikctf{flag}
+
 Hint: Use Hex
