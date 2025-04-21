@@ -2,4 +2,6 @@ Hey! We've managed to intercept Agent Itik's secret message! Our intel says that
 
 Difficulty: Easy
 
+Flag format: itikctf{flag}
+
 Hint: What happen if we use same XOR key for all our encrypted text?
