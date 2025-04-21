@@ -1,0 +1,9 @@
+Professor Pineapple whipped up a new RSA key in a hurry and forgot to double-check the strength of his primes. As his assistant, you tried to warn him but he believes no one could possibly crack his RSA.
+
+Do your best to break it before a hacker does to prove that you are right!
+
+Difficulty: Easy
+
+Flag format: itikctf{flag}
+
+Hint: Try factordb
